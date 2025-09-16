@@ -13,7 +13,7 @@ Program ini dibuat untuk memenuhi Post Test 2 PBO dengan menerapkan konsep Objec
 - packages com > Resepmakanan.java = Berisi entry point (method main) dan menu interaksi dengan pengguna. (sebagai package main)
 - packages service > resepservice.java = Berisi logika utama operasi CRUD (Create, Read, Update, Delete).
 - packages model > resep.java = Berisi struktur data / blueprint objek resep (properties, constructor, getter & setter).
-  <img width="832" height="356" alt="image" src="https://github.com/user-attachments/assets/c8d1c236-f982-478c-be08-495cec555f50" />
+  <img width="850" height="519" alt="image" src="https://github.com/user-attachments/assets/e61b91ce-d272-4705-9398-fe8acdfc9719" />
 
 ## Alur Program
 - Saat dijalankan, program akan menampilkan menu utama:
