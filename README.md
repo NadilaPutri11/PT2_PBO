@@ -10,7 +10,7 @@ Fitur yang tersedia antara lain:
 - Keluar dari program
 Program ini dibuat untuk memenuhi Post Test 2 PBO dengan menerapkan konsep Object Oriented Programming (OOP) seperti constructor, access modifier, serta penggunaan packages.
 ## Struktur Packages
-- packages main > Resepmakanan.java = Berisi entry point (method main) dan menu interaksi dengan pengguna.
+- packages com > Resepmakanan.java = Berisi entry point (method main) dan menu interaksi dengan pengguna. (sebagai package main)
 - packages service > resepservice.java = Berisi logika utama operasi CRUD (Create, Read, Update, Delete).
 - packages model > resep.java = Berisi struktur data / blueprint objek resep (properties, constructor, getter & setter).
 ## Alur Program
